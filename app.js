@@ -20,5 +20,5 @@ console.log(fullName2);
 // Exercise 3
 let city = "Indianapolis";
 let pastime = "video games";
-let myStory = `Bonjour, my name is ${fullName}.  I live in in ${city}.  Enjoying ${pastime} is a hobby of mine.`;
+let myStory = `Bonjour, my name is ${fullName}.  I live in ${city}.  Enjoying ${pastime} is a hobby of mine.`;
 console.log(myStory);
